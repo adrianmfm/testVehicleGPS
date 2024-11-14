@@ -1,7 +1,7 @@
 
 # testVehicleGPS
 
-Este proyecto es una prueba de integración para un sistema de monitoreo GPS de vehículos. Incluye un backend desarrollado en Ruby on Rails y un frontend construido con React. El objetivo es gestionar la visualización y el seguimiento en tiempo real de vehículos utilizando servicios de geolocalización.
+Este proyecto es una prueba de integración para un sistema de monitoreo GPS de vehículos. Incluye un backend desarrollado en Ruby on Rails y un frontend construido con React. El objetivo es gestionar la visualización y el seguimiento en tiempo real de vehículos utilizando servicios de geolocalización integrando la API de Google Maps.
 
 ## Tecnologías utilizadas
 
