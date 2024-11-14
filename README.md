@@ -113,7 +113,8 @@ Antes de comenzar, asegúrate de tener instalados:
 
    El frontend estará disponible en `http://localhost:3001`.
 
-## Modelo de datos <img width="409" alt="image" src="https://github.com/user-attachments/assets/a9da7507-13dc-47cd-9db5-bd040bc41a69">
+## Modelo de datos
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/a9da7507-13dc-47cd-9db5-bd040bc41a69">
 
 
 ## Screenshots de la App
