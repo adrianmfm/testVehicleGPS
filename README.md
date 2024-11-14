@@ -129,4 +129,4 @@ Antes de comenzar, asegúrate de tener instalados:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Consulta el archivo [LICENSE](./LICENSE) para obtener más información.
+Este proyecto se distribuye bajo la licencia MIT. 
